@@ -41,7 +41,7 @@ If you find this project helpful:
 
 🛠️ Feel free to contribute or provide suggestions for improvement.
 
-Here is a screenshots of the Café Management System in action:
+Here are the screenshots of the Café Management System in action:
 
 ![Café Management System Login Interface](images/2.png)
 
