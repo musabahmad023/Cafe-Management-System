@@ -4,6 +4,8 @@ This is a comprehensive Café Management System project implemented in C++ for P
 
 Features
 
+Login Module: Secure login authentication for students, admins, and employee.
+
 Admin Panel: Manage the overall system with ease.
 
 Student Module: Special functionalities for students.
@@ -38,3 +40,9 @@ If you find this project helpful:
 🌟 Star this repository to show your appreciation.
 
 🛠️ Feel free to contribute or provide suggestions for improvement.
+
+Here is a screenshots of the Café Management System in action:
+
+![Café Management System Login Interface](images/2.png)
+
+![Café Management System Menu Interface](images/3.png)
