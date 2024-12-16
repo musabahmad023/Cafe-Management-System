@@ -1,3 +1,23 @@
+/*
+ * This code is authored by Musab Ahmad.
+
+ * Feel free to use this code for your projects, modify it for creativity,
+ * or adapt it to meet your specific requirements.
+
+ * If you have any queries, suggestions, or feedback,
+ * feel free to reach out to me via email at:
+ *    masabahmed786@gmail.com
+
+ * I would appreciate it if you could give credit when using this code
+ * in your projects or repositories. 🌟
+
+ * Don't forget to star ⭐ this repository and follow me on GitHub
+ * to stay updated with more exciting projects and content!
+
+ * Thank you for your support and interest in my work!
+ */
+
+
 #include <iostream>
 #include "admin.cpp"
 #include "project.h"
